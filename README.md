@@ -147,3 +147,6 @@ MIT — see `LICENSE`.
 - Replace `<YOUR_GITHUB_USERNAME>` and `<REPO_NAME>` everywhere
 - Replace the “Example output” block with **your real run output**
 - Update the title/description to match the project name
+## License
+MIT — see [LICENSE](LICENSE).
+
