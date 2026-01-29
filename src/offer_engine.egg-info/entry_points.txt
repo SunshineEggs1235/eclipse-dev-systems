@@ -1,2 +1,0 @@
-[console_scripts]
-offer-engine = offer_engine.cli:app
